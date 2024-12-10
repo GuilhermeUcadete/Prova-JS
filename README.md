@@ -21,11 +21,11 @@ O projeto está organizado com os seguintes diretórios e arquivos principais:
 - **src/components**: Componentes reutilizáveis como Header e Footer.
 - **src/pages**: Páginas principais da aplicação.
 - **src/App.jsx**: Componente principal.
-- **src/index.jsx**: Ponto de entrada.
+- **src/index.html**: Ponto de entrada.
 - **src/styles**: Arquivos de estilização.
 
 ## Conclusão
 Este projeto demonstra a integração de uma aplicação React com uma API externa para fornecer informações em tempo real. Utilizando as melhores práticas de desenvolvimento e estilização com Styled Components, a aplicação oferece uma interface limpa e fácil de usar. A integração com a API OpenWeatherMap permite que os usuários obtenham dados meteorológicos de forma rápida e intuitiva. Com a publicação na Vercel, a aplicação se torna acessível a qualquer momento, em qualquer lugar. O projeto é um exemplo prático de como construir soluções web interativas e escaláveis. 
 
-##Vercel
+## Vercel
 O projeto está visível para todos no link do vercel.
