@@ -29,3 +29,4 @@ Este projeto demonstra a integração de uma aplicação React com uma API exter
 
 ## Vercel
 O projeto está visível para todos no link do vercel.
+https://prova-js-sooty.vercel.app/
