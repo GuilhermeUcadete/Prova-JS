@@ -24,10 +24,8 @@ O projeto está organizado com os seguintes diretórios e arquivos principais:
 - **src/index.jsx**: Ponto de entrada.
 - **src/styles**: Arquivos de estilização.
 
-## Rodando o Projeto Localmente
-Para executar o projeto localmente, siga estas etapas:
+## Conclusão
+Este projeto demonstra a integração de uma aplicação React com uma API externa para fornecer informações em tempo real. Utilizando as melhores práticas de desenvolvimento e estilização com Styled Components, a aplicação oferece uma interface limpa e fácil de usar. A integração com a API OpenWeatherMap permite que os usuários obtenham dados meteorológicos de forma rápida e intuitiva. Com a publicação na Vercel, a aplicação se torna acessível a qualquer momento, em qualquer lugar. O projeto é um exemplo prático de como construir soluções web interativas e escaláveis. 
 
-1. Clone o repositório usando Git.
-2. Acesse a pasta do projeto.
-3. Instale as dependências com `npm install`.
-4. Configure a chave da API no arquivo `.env`:
+##Vercel
+O projeto está visível para todos no link do vercel.
